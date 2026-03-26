@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0Intro.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/levelselect.unity
+    guid: 3ff8251adc2e312488180b9328f096cc
+  - enabled: 1
+    path: Assets/Scenes/1DottedLine.unity
+    guid: 3e5c9698dafd58b4c98dac1b9c5e0c32
+  - enabled: 1
+    path: Assets/Scenes/2PolkaDots.unity
+    guid: 6a0e7b2ba77d9d24f87e619d07eec4dd
+  - enabled: 1
+    path: Assets/Scenes/3DotThick.unity
+    guid: b1215f2533418c74d98058e6b7f95e66
+  - enabled: 1
+    path: Assets/Scenes/4Glitch.unity
+    guid: 7efc1d5a8ca1d8744bc14532ebf00c7b
+  - enabled: 1
+    path: Assets/Scenes/5DotsMove.unity
+    guid: b0ed999919075ca4286cee061314df40
+  - enabled: 1
+    path: Assets/Scenes/6BatDay.unity
+    guid: a4ef3b8155571c64dbe3af33348a6599
+  - enabled: 1
+    path: Assets/Scenes/7GiveUp.unity
+    guid: 215c1b6b2d9709e4faccc7ed69979370
+  - enabled: 1
+    path: Assets/Scenes/8Whirlwind.unity
+    guid: cec15b4afe655ef4c8c13341fcbdac59
+  - enabled: 1
+    path: Assets/Scenes/levelselect 1.unity
+    guid: f9109737e0fc5444480499eb5e863421
+  - enabled: 1
+    path: Assets/Scenes/9LeafNow.unity
+    guid: ca4487e0dc71b7546b823a70d1550a6d
+  - enabled: 1
+    path: Assets/Scenes/10SharpEnds.unity
+    guid: 53ef731475f0164488bcd8044bf4d0a3
+  - enabled: 1
+    path: Assets/Scenes/11Slither.unity
+    guid: ab87504431998bd4a9b43701b2a459ac
+  - enabled: 1
+    path: Assets/Scenes/12Shmobb.unity
+    guid: 81e06b55f61c47f47aa7147573bcece3
+  - enabled: 1
+    path: Assets/Scenes/13Sparrow.unity
+    guid: 06586a3d596af5844b277c7c3371a8c5
+  - enabled: 1
+    path: Assets/Scenes/14Martian.unity
+    guid: a924b9e5cce48a2438024615d492cafd
+  - enabled: 1
+    path: Assets/Scenes/15Robin.unity
+    guid: 5d3a8fd20f2628949a8400bb586810b3
+  - enabled: 1
+    path: Assets/Scenes/bosslvlselect.unity
+    guid: 6b3484b13b3f6854c94061fa32af4ca0
+  - enabled: 1
+    path: Assets/Scenes/16Finale.unity
+    guid: 438c895cd00819f47bec85838359e350
+  - enabled: 1
+    path: Assets/Scenes/17Finale2.unity
+    guid: 702cfa9bb317e06488a0938f4cfd675e
+  - enabled: 1
+    path: Assets/Scenes/18Finale3.unity
+    guid: 7cb163900e6f53542bd9e6ac1b1bf100
+  - enabled: 1
+    path: Assets/Scenes/19Finale4.unity
+    guid: 8f77a795c51ce184a9f0e3c273a1b329
+  - enabled: 1
+    path: Assets/Scenes/20Finale5.unity
+    guid: 478cc7a73d7dcc94da8c85a894207583
+  - enabled: 1
+    path: Assets/Scenes/21Finale6.unity
+    guid: 97a0e354e6f6c804ba4d81b03055fd43
+  m_configObjects: {}

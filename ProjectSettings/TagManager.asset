@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - killer
+  - Vunerable
+  - tiles
+  - weapon
+  - Miscellanious
+  - wall
+  - Checkpoint
+  - Nemeny
+  - music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Floor
+  - Water
+  - UI
+  - Enemy
+  - bullet
+  - player
+  - Obstacle
+  - Vunerable
+  - enemybullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1222863771
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Front
+    uniqueID: 2487141039
+    locked: 0
+  - name: Fronter
+    uniqueID: 1125691309
+    locked: 0
